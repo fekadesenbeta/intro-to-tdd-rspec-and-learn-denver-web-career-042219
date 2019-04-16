@@ -10,8 +10,6 @@ describe "current_age_for_birth_year method" do
   endhttps://learn.co/tracks/web-development-fundamentals/intro-to-ruby/introduction/intro-to-tests-rspec-and-learn#
   
   def current_age_for_birth_year
-    
-    current_age_for_birth_year(birth_year)
-  2003 - birth_year
+ 
     
 end
